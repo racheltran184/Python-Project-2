@@ -196,12 +196,12 @@ Install the core libraries:
 
 2. **Clean Data**
 
-   * Run the cleaning notebook/script (e.g. `Task_1_Clean_Data.ipynb`).
+   * Run the cleaning notebook/script (e.g. `Task 1/ Clean Data.ipynb`).
    * Output: `dataset_cleaned.csv` (≈ 1.09M rows × 39 columns).
 
 3. **Analyse**
 
-   * Run the analysis notebooks (e.g. `Section_2_Exploratory_Insights.ipynb`, `Section_3_Comparative_Analysis.ipynb`, `Section_4_Regression_Analysis.ipynb`).
+   * Run the analysis notebooks (e.g. `Task 2/ Data Analysis Workflow.ipynb`).
    * Outputs:
 
      * Statistical summaries and hypothesis test results
