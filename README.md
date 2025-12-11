@@ -221,6 +221,3 @@ Install the core libraries:
   * Fixing or exiting structurally weak profiles such as **Brisbane**.
 * **Supply chain design** needs deliberate redundancy in the most critical flows to reduce fragility and support any future growth phase.
 
-
-
-/ check the valid of information here
