@@ -30,7 +30,7 @@ Transforms fragmented, raw CSV exports into a single, high-integrity analytical 
 
 - **Currency Normalisation**  
   Converts multi-currency transactions to **AUD** using **Reserve Bank of Australia monthly FX rates**, creating `value_sales_aud` and `value_cost_aud`.
-- **Intelligent Imputation**  
+- **Logic Imputation**  
   Uses business logic and hierarchy rules (e.g. deriving `item_type` from `item_group_code`, mapping currency/tax from `country_code`) to fill missing values.
 - **Outlier Management**  
   Preserves “whale transactions” (very large project orders and returns) but applies **arcsinh transformation** to key financial variables to reduce skew while retaining zero and negative values.
