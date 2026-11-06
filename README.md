@@ -55,7 +55,7 @@ The leadership team wanted one read of five years of sales: *are we growing, whe
 
 *External customers only; margins on lines with a real cost; "a year" is the 2020–2024 average.*
 
-**1. Sales are steady, but the mix isn't moving.** Sales held between $244M and $257M a year, with about 3,450 active external customers each year. Traditional lighting is 70% of external sales, accessories 18% and LED 11–12%; LED sales fell from $23.8M in 2020 to $21.7M in 2024. Under the Minamata Convention, the manufacture, import and export of fluorescent lamps for general lighting ends by 2027 ([CLASP, 2023](https://www.clasp.ngo/updates/cop5-decision/)).
+**1. Sales are steady, but the mix isn't moving.** Sales held between $244M and $257M a year, with about 3,450 active external customers each year. Traditional lighting is 70% of external sales, accessories 18% and LED 11–12%; LED sales fell from $23.8M in 2020 to $21.7M in 2024.
 
 **2. Margin is made in the mix and the channel, not in projects.** Accessories earn 44.9%, Traditional 42.6% and LED 40.0%, so every dollar that moves from Traditional to LED today costs margin. EDI reorders earn 45.1%, the best channel, on only 4.2% of sales. Project orders earn 43.8% against 44.1% for normal orders.
 
