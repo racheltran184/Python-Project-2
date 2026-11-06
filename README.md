@@ -45,7 +45,7 @@ The leadership team wanted one read of five years of sales: *are we growing, whe
 
 ### Three blind spots in the extract
 
-1. **Half of every year is missing.** 98% of recorded sales fall in January to June, and 7 of the 10 company codes have no July to December lines at all. Annual totals are flat ($257M in 2020, then $249M, $244M, $244M and $246M). The "99% fall" compares May 2020 ($48M) with December 2024 ($0.4M), a month when only 3 company codes report; May 2024 sold $47M.
+1. **Half of every year is missing.** 98% of recorded sales fall in January to June, and 7 of the 10 company codes have no July to December lines at all. Annual totals are flat: $257M in 2020, then $249M, $244M, $244M and $246M. The "99% fall" compares May 2020, at $48M, with December 2024, at $0.4M, a month when only 3 company codes report; May 2024 sold $47M.
 2. **Placeholder costs.** On 52% of lines the recorded cost equals the quantity, a $1.00 unit cost. Of the affected products sold on ten or more lines, 97% carry a real cost on their other lines, so these are placeholders. Left in, they lift the margin to 65.9%; taking them out gives 36.1%.
 3. **Intercompany sales.** 22% of the file is intercompany and head-office sales at a 12.8% margin. On external customers alone, gross margin is **42.6%**, the yardstick for every finding below.
 
@@ -55,7 +55,7 @@ The leadership team wanted one read of five years of sales: *are we growing, whe
 
 *External customers only; margins on lines with a real cost; "a year" is the 2020–2024 average.*
 
-**1. Sales are steady, but the mix isn't moving.** Sales held between $244M and $257M a year, with about 3,450 active external customers each year. Traditional lighting is 70% of external sales, accessories 18% and LED 11–12%; LED sales fell from $23.8M in 2020 to $21.7M in 2024.
+**1. Sales are steady, but the mix isn't moving.** Sales held between $244M and $257M a year, with about 3,450 active external customers each year. Traditional lighting is 70% of external sales, accessories 18% and LED 11–12%; LED sales fell from $23.8M in 2020 to $21.7M in 2024. Under the Minamata Convention, the manufacture, import and export of fluorescent lamps for general lighting ends by 2027 ([CLASP, 2023](https://www.clasp.ngo/updates/cop5-decision/)).
 
 **2. Margin is made in the mix and the channel, not in projects.** Accessories earn 44.9%, Traditional 42.6% and LED 40.0%, so every dollar that moves from Traditional to LED today costs margin. EDI reorders earn 45.1%, the best channel, on only 4.2% of sales. Project orders earn 43.8% against 44.1% for normal orders.
 
@@ -63,7 +63,7 @@ The leadership team wanted one read of five years of sales: *are we growing, whe
 
 **4. Volume is sold at commodity prices.** The highest-volume tenth of products carries 57% of external sales at a median $6.34 a unit; the lowest-volume tenth sells at a median $280. Each doubling of volume comes with a unit price about 26% lower.
 
-**5. $8M a year flows back as credits.** Credits reverse 4.0% of gross external sales. Half is goods coming back ($4.0M a year); $2.75M a year is price-only credits, where no goods return. Melbourne credits 4.7% of its sales, against 3.6–4.2% in Sydney, Brisbane and Perth, and the Northern Region of New Zealand 8.8%.
+**5. $8M a year flows back as credits.** Credits reverse 4.0% of gross external sales. Half, $4.0M a year, is goods coming back; $2.75M a year is price-only credits, where no goods return. Melbourne credits 4.7% of its sales, against 3.6–4.2% in Sydney, Brisbane and Perth, and the Northern Region of New Zealand 8.8%.
 
 **6. Regions are closer than they look.** The four biggest districts sit within two points: Sydney 43.0%, Perth 42.3%, Brisbane 42.2%, Melbourne 41.3%. Brisbane, once flagged for an urgent margin audit, sits in the middle. The four smaller Australian districts earn 45.2% against 42.2% for the five largest.
 
