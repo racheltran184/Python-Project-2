@@ -1,6 +1,7 @@
 # LuminaTech Sales Briefing
 
 [![Case Study](https://img.shields.io/badge/Case_Study-Read_the_page-111111?style=for-the-badge)](https://racheltran184.github.io/Python-Project-2/)
+
 [![Python](https://img.shields.io/badge/Python-pandas_·_NumPy_·_statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)](#how-to-run)
 
 **A steady business, misread by its own data.** Five years of sales for LuminaTech, a commercial and industrial lighting supplier in Australia and New Zealand: 1.09 million ERP lines cleaned in Python, audited before any analysis, and turned into a 90-day plan and a three-year strategy for the leadership team.
